@@ -59,7 +59,7 @@ set -e
 
 # 初始化环境
 export PATH="/system/bin:$PATH"
-LOGFILE="/dev/null"  # 可替换为实际日志路径
+LOGFILE="/dev/null"
 
 COLOR_NORMAL=""
 COLOR_GREEN=""
